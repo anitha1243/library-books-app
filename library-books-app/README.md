@@ -7,7 +7,7 @@ Quick start
 1. Open a terminal and change into the project folder:
 
 ```powershell
-cd C:\Users\anith\Documents\repos\library-app\library-books-app
+cd .\library-books-app
 ```
 
 2a. If you have Gradle installed, run:
